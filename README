@@ -4,3 +4,6 @@ STILL in progress. Some of the files present are polypeptide files for proteins.
 Algorithms not separate from form code. Present in both. 
 Note that the code is located in the .vb files
 Commented and noted. 
+<br>
+The forms are not named with their functions. However Form3 contains the PDB lookup and parse. Forms 4,2, and 1 contain the algorithms and UIR interaction
+
